@@ -1,0 +1,18 @@
+{
+  "name": "inline-image",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "",
+  "dependencies": {
+	"image-size": "~0.3.5"
+  },
+  "repository":{
+	"type": "git",
+	"url": "git@github.com:thomas-ersosi/inline-image.git"
+  },
+  "homnepage": "https://github.com/thomas-ersosi/inline-image",
+  "author": {
+	"name": "Thomas Ersosi"
+  }
+  "license": "ISC"
+}
